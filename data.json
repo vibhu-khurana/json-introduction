@@ -1,0 +1,12 @@
+[
+  {
+    "name": "test1",
+    "id": 101,
+    "isVisible": true
+  },
+  {
+    "name": "test2",
+    "id": 102,
+    "isVisible": false
+  }
+]
